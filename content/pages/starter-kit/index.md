@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /starter-kits/
 eleventyNavigation:
   key: Starter Kits
-  order: 200
+  order: 1000
   title: Starter Kits
 tags:
   -  

@@ -9,9 +9,9 @@ eleventyNavigation:
   order: 102
   title: Electrical Specs
 tags:
-  - specs
   - installation
   - manual
+  - electrical
 ---
 ## Electrical Specs
 

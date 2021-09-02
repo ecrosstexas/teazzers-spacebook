@@ -8,6 +8,9 @@ const embedEverything = require("eleventy-plugin-embed-everything");
 const pluginTOC = require('eleventy-plugin-nesting-toc');
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const Image = require("@11ty/eleventy-img");
+
+const pairedshortcodes  = require('./_11ty/shortcodes/paired-shortcodes.js');
+
 module.exports = function(eleventyConfig) {
   // eleventyConfig.addPlugin(pluginTOC);
   eleventyConfig.addPlugin(svgContents); 
@@ -26,8 +29,8 @@ module.exports = function(eleventyConfig) {
     let metadata = await Image(src, {
       widths: [400, 600, 800, 1000, 1200, 1400, 1600, 1900],
       formats: ['webp', 'jpeg', 'png'],
-      urlPath: "/content/images/",
-      outputDir: "./_site/content/images/"
+      urlPath: "/images/",
+      outputDir: "./_site/images/"
     });
 
     let lowsrc = metadata.jpeg[0];
@@ -179,7 +182,8 @@ module.exports = function(eleventyConfig) {
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
   eleventyConfig.addPassthroughCopy("images/")
-  eleventyConfig.addPassthroughCopy("content/images/")
+  eleventyConfig.addPassthroughCopy({'content/images/': "/images" });
+  eleventyConfig.addPassthroughCopy({'content/pdf/': "/pdf" });
   eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
   eleventyConfig.addPassthroughCopy("_includes/experimental/");

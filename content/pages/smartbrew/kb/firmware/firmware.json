@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "firmware"
+  ],
+  "layout": "layouts/page.njk"
+}

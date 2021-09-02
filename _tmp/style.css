@@ -1,4 +1,4 @@
-/*! tailwindcss v2.2.7 | MIT License | https://tailwindcss.com */
+/*! tailwindcss v2.2.9 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.1.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
@@ -204,6 +204,7 @@ Correct the inability to style clickable types in iOS and Safari.
 
 button,
 [type='button'],
+[type='reset'],
 [type='submit'] {
   -webkit-appearance: button;
 }
@@ -423,6 +424,14 @@ button {
   cursor: pointer;
 }
 
+/**
+ * Override legacy focus reset from Normalize with modern Firefox focus styles.
+ *
+ * This is actually an improvement over the new defaults in Firefox in our testing,
+ * as it triggers the better focus styles even for links, which still use a dotted
+ * outline in Firefox by default.
+ */
+
 table {
   border-collapse: collapse;
 }
@@ -538,6 +547,8 @@ video {
       [type='text'],
       [type='email'],
       [type='password'],
+      [type='number'],
+      [type='date'],
       [type='search'],
       [type='time'],
       textarea,
@@ -558,7 +569,7 @@ video {
   line-height: 1.5rem;
 }
 
-[type='text']:focus, [type='email']:focus, [type='password']:focus, [type='search']:focus, [type='time']:focus, textarea:focus, select:focus {
+[type='text']:focus, [type='email']:focus, [type='password']:focus, [type='number']:focus, [type='date']:focus, [type='search']:focus, [type='time']:focus, textarea:focus, select:focus {
   outline: 2px solid transparent;
   outline-offset: 2px;
   --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
@@ -639,6 +650,18 @@ img:hover {
 
 .prose .footer-nav a {
   text-decoration: none !important
+}
+
+ .prose ul.spacelog {
+  margin-left: -1.5rem !important;
+  list-style-type: none !important;
+}
+
+
+  .prose ul.spacelog {
+  ::before {
+    display: none !important;
+  }
 }
 
 /* Define blockquotes and some standard callout blocks */
@@ -748,6 +771,42 @@ nav ul li a.active {
 .dark input {
   --tw-text-opacity: 1;
   color: rgba(156, 163, 175, var(--tw-text-opacity));
+}
+
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
 }
 
 .prose {
@@ -1091,9 +1150,18 @@ nav ul li a.active {
   margin-bottom: 0;
 }
 
+ .prose .tag a {
+  color: #333;
+  text-decoration: none;
+}
+
 .prose ul.footer-nav ::before {
   display: none;
   text-decoration: none;
+}
+
+.prose ul.spacelog ::before {
+  display: none;
 }
 
 .prose-sm {
@@ -1445,6 +1513,10 @@ nav ul li a.active {
   margin-left: 0px !important;
 }
 
+.ml-1 {
+  margin-left: 0.25rem !important;
+}
+
 .ml-2 {
   margin-left: 0.5rem !important;
 }
@@ -1455,6 +1527,10 @@ nav ul li a.active {
 
 .inline-block {
   display: inline-block !important;
+}
+
+.inline {
+  display: inline !important;
 }
 
 .flex {
@@ -1513,6 +1589,10 @@ nav ul li a.active {
   flex: none !important;
 }
 
+.flex-shrink-0 {
+  flex-shrink: 0 !important;
+}
+
 .flex-grow {
   flex-grow: 1 !important;
 }
@@ -1526,6 +1606,10 @@ nav ul li a.active {
   --tw-scale-x: 1 !important;
   --tw-scale-y: 1 !important;
   transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.rotate-180 {
+  --tw-rotate: 180deg !important;
 }
 
 @-webkit-keyframes spin {
@@ -1729,6 +1813,11 @@ nav ul li a.active {
   background-color: rgba(243, 244, 246, var(--tw-bg-opacity)) !important;
 }
 
+.bg-gray-200 {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgba(229, 231, 235, var(--tw-bg-opacity)) !important;
+}
+
 .bg-green-600 {
   --tw-bg-opacity: 1 !important;
   background-color: rgba(5, 150, 105, var(--tw-bg-opacity)) !important;
@@ -1807,6 +1896,11 @@ nav ul li a.active {
 .px-6 {
   padding-left: 1.5rem !important;
   padding-right: 1.5rem !important;
+}
+
+.py-1 {
+  padding-top: 0.25rem !important;
+  padding-bottom: 0.25rem !important;
 }
 
 .py-2 {
@@ -1916,6 +2010,11 @@ nav ul li a.active {
   color: rgba(243, 244, 246, var(--tw-text-opacity)) !important;
 }
 
+.text-gray-300 {
+  --tw-text-opacity: 1 !important;
+  color: rgba(209, 213, 219, var(--tw-text-opacity)) !important;
+}
+
 .text-gray-400 {
   --tw-text-opacity: 1 !important;
   color: rgba(156, 163, 175, var(--tw-text-opacity)) !important;
@@ -1939,6 +2038,11 @@ nav ul li a.active {
 .hover\:text-gray-800:hover {
   --tw-text-opacity: 1 !important;
   color: rgba(31, 41, 55, var(--tw-text-opacity)) !important;
+}
+
+.hover\:text-gray-900:hover {
+  --tw-text-opacity: 1 !important;
+  color: rgba(17, 24, 39, var(--tw-text-opacity)) !important;
 }
 
 .hover\:text-yellow-400:hover {
@@ -2026,6 +2130,19 @@ nav ul li a.active {
 
 .ring-opacity-50 {
   --tw-ring-opacity: 0.5 !important;
+}
+
+.filter {
+  --tw-blur: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-brightness: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-contrast: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-grayscale: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-hue-rotate: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-invert: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-saturate: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-sepia: var(--tw-empty,/*!*/ /*!*/) !important;
+  --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/) !important;
+  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow) !important;
 }
 
 .transition-colors {

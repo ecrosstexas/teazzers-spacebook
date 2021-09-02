@@ -6,7 +6,7 @@ date:
 eleventyNavigation:
   parent: SmartBrew
   key: Parts
-  order: 150
+  order: 900
   title: Parts
 tags:
   - 

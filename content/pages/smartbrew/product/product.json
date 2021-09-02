@@ -1,0 +1,7 @@
+{
+  "tags": [
+    "product"
+  ],
+  "layout": "layouts/kb.njk"
+
+}
