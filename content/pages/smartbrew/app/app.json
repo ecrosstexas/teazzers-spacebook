@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "app"
+  ],
+  "layout": "layouts/page.njk"
+}

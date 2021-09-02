@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/broeker/spacebook.git"
+    "url": "git+https://github.com/ecrosstexas/spacebook.git"
   },
   "author": "Tim Broeker <broeker@gmail.com> (https://www.electriccitizen.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/broeker/spacebook/issues"
+    "url": "https://github.com/ecrosstexas/spacebook/issues"
   },
-  "homepage": "https://github.com/broeker/spacebook",
+  "homepage": "hhttps://github.com/ecrosstexas/teazzers-spacebook",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "alpinejs": "^2.7.3",

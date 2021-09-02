@@ -1,0 +1,7 @@
+{
+  "tags": [
+    "heating",
+    "hot water"
+  ],
+  "layout": "layouts/page.njk"
+}

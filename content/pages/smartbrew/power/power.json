@@ -1,0 +1,8 @@
+{
+    "tags": [
+      "power",
+      "electrical"
+    ],
+    "layout": "layouts/page.njk"
+
+  }
