@@ -1,18 +1,17 @@
 ---
-title: SmartBrew Brewing Issues
+title: SmartBrew Configuration Issues
 date: Last Modified 
-permalink: /smartbrew/kb/brewing/
 eleventyNavigation:
   parent: Knowledge Base
-  key: Brewing
-  order: 300
-  title: Brewing
+  key: Configuration
+  order: 600
+  title: Configuration
 tags:
   -  
   - 
 ---
 <ul>
-{%- for post in collections.brewing -%}
+{%- for post in collections.config -%}
   <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>

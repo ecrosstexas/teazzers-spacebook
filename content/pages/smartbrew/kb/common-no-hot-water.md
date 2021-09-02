@@ -8,18 +8,12 @@ problemCode:
 resolutionCode: 301
 nextStepURL: "/heating/check-limit/"
 ---
-## Possible Cause(s)
+## Diagnostics - Phone
 
-- [SmartBrew machine unplugged](/smartbrew/kb/connect-machine/).
-- [Power switch in "OFF" position](/smartbrew/kb/turn-on-machine/).
-- [Tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
-
-## What to Check - Phone
-
-- Is the machine plugged in?
-- Turn machine "ON"
+- Is the machine [plugged in](/smartbrew/kb/connect-machine/) 🔌?
+- Is this machine [turned on]((/smartbrew/kb/turn-on-machine/))?
     - Tank should begin to heat and reach temperature within 20 minutes.
-- If machine doesn't begin to heat or show signs of operation, check for a [tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
+- If machine doesn't begin to heat or show any signs of operation, check for a [tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
 
 ## What to Check - Field
 

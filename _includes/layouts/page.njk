@@ -55,6 +55,10 @@ section: page
                     {% if previousPage.data.eleventyNavigation.title %}{{  previousPage.data.eleventyNavigation.title }}{% else %}{{  previousPage.data.eleventyNavigation.key }}{% endif %} </a> </li>{% endif %}
                     </ul>
                     {% endif %}
+                    <form>
+                        <input type="button" value="Back to Previous Page"
+                        onClick="javascript: history.go(-1)">
+                    </form>
                 </div>
                 </article>
             </div>    

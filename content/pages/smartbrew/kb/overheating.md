@@ -1,18 +1,16 @@
 ---
-title: No Hot Water
+title: Overheating (Boiling)
 date: Last Modified 
 tags:
   - heating
 ---
-## Reported Issue(s)
+## Diagnostics - Phone
 
-- SmartBrew machine has no hot water.
-- Tea is weak.
-- Brew water is cold.
+- Step 1 - Confirm overheating and not leaking or overfilling.
 
-## Troubleshooting
+## Troubleshooting - Field
 
-- Step 1 - Check the common reasons the SmartBrew machine has [no heat](/smartbrew/kb/common-no-hot-water/)
+- Step 1 - Check the [maximum temperature](/smartbrew/kb/max-temperature-setting/) 🌡️.
 - Step 2 - Check the [thermistor](/smartbrew/kb/check-thermistor/).
 - Step 3 - Check the [hi-limit-switch](/smartbrew/kb/check-hi-limit/).
 - Step 4 - Check the [heater relay](/smartbrew/kb/check-heater-relay/).
