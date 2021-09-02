@@ -1,18 +1,19 @@
 ---
-title: Thermistor Open Error
-description:
-date: 2020-09-15
-layout: layouts/page.njk
+title: Call for Service - Thermistor Open Error
+date: Last Modified 
 tags:
-  - "hot water"
-  - "heater"
-  - "thermistor"
+  - brewing
+  - heating
 problemCode:
 resolutionCode:
 nextStepURL: "/heating/"
 ---
-## Possible Cause
-
 ![Thermistor Open Error Screen](/images/error_thermistor_open.png)
 
-## What to Check - Phone
+## Possible Cause(s)
+
+- Thermistor Malfunction
+
+## What to Check - Field
+
+- Check the [thermistor](/smartbrew/kb/check-thermistor/)

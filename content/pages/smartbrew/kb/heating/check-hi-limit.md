@@ -24,13 +24,11 @@ nextStepURL: "/heating/"
 - Step 4 - Check the wire connections to both sides of the heater element as well as the hi-limit switch, for loose connections or burnt wires.
 - Step 5 - Check to see if the “RED or BROWN” reset button on top of the hi- limit switch has been tripped (UP position). If tripped, then attempt to reset it by firmly pushing the button down until a click sound is heard. Now attempt to reheat the tank and check for a boiling water condition. If the switch will not reset, then replace the defective hi-limit switch.
 
-## Caution 
+## ⚠️ Caution
 
-::: warning
+::: callout
 
-🛑 SAFETY WARNING
-
-Before servicing the unit; be sure to disconnect the power supply completely (unplug or turn off circuit breaker). When it is advised to remove a wire to check for Voltage throughout these procedures, turn the power OFF to unit first; get yourself setup; then turn power back on to check for Voltage. 
+Before servicing the unit; be sure to disconnect the power supply completely (unplug or turn off circuit breaker). When it is advised to remove a wire to check for Voltage throughout these procedures, turn the power OFF to unit first; get yourself setup; then turn power back on to check for Voltage.
 
 NEVER DISCONNECT LIVE WIRES FROM ANY DEVICE ON THE MACHINE. ALWAYS EXERCISE SAFETY FIRST!
 :::

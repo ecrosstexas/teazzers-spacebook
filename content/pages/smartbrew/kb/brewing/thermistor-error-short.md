@@ -1,18 +1,21 @@
 ---
-title: Thermistor Error Short
-description:
-date: 2020-09-15
-layout: layouts/page.njk
+title: Call for Service - Thermistor Error Short
+date: Last Modified 
 tags:
-  - "hot water"
-  - "heater"
-  - "thermistor"
+  - brewing
+  - heating
 problemCode:
 resolutionCode:
 nextStepURL: "/heating/"
 ---
-## Possible Cause
-
 ![Thermistor Error Short Screen](/images/error_thermistor_short.png)
 
+## Possible Cause(s)
+
+- Thermistor Malfunction
+
 ## What to Check - Phone
+
+## What to Check - Field
+
+- Check the [thermistor](/smartbrew/kb/check-thermistor/)
