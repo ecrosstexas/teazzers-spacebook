@@ -1,5 +1,5 @@
 ---
-title: Call for Service - Thermistor Open Error
+title: Call for Service - Thermistor Error Open
 date: Last Modified 
 tags:
   - brewing
@@ -12,7 +12,7 @@ nextStepURL: "/heating/"
 
 ## Possible Cause(s)
 
-- Thermistor Malfunction
+- Thermistor circuit is open
 
 ## What to Check - Field
 

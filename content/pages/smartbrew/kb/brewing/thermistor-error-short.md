@@ -12,8 +12,7 @@ nextStepURL: "/heating/"
 
 ## Possible Cause(s)
 
-- Thermistor Malfunction
-
+- Thermistor circuit is shorted
 ## What to Check - Phone
 
 ## What to Check - Field

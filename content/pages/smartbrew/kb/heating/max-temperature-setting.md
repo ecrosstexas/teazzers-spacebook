@@ -24,4 +24,6 @@ nextStepURL: "/heating/"
 
 Go into SmartBrew app's **Setup menu** and adjust the Maximum Temperature according to the [TEAZZERS altitude temperature scale](/pdf/temp-altitude-scale.pdf).
 
+If adjusting the maximum temperature does not resolve overheating issues, proceed to checking the [thermistor](/smartbrew/kb/check-thermistor/).
+
 ## Caution
