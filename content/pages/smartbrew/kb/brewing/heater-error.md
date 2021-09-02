@@ -14,6 +14,8 @@ The system attempts to detect any problems with the heater. The heater has run c
 
 ## Possible Cause(s)
 
-- Element Malfunction
+- Heater Element Malfunction
 
 ## What to Check - Field
+
+- Check [Heater Element](/smartbrew/kb/check-element/)
