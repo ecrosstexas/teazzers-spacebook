@@ -8,7 +8,7 @@ problemCode:
 resolutionCode: 301
 nextStepURL: "/heating/check-limit/"
 ---
-## Diagnostics - Phone
+## Diagnostics - Phone 📞
 
 - Is the machine [plugged in](/smartbrew/kb/connect-machine/) 🔌?
 - Is this machine [turned on]((/smartbrew/kb/turn-on-machine/))?

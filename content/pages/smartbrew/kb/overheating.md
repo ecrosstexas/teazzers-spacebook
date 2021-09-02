@@ -4,7 +4,7 @@ date: Last Modified
 tags:
   - heating
 ---
-## Diagnostics - Phone
+## Diagnostics - Phone 📞
 
 - Step 1 - Confirm overheating and not leaking or overfilling.
 

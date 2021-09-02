@@ -7,7 +7,7 @@ problemCode: 100
 resolutionCode: 102
 nextStepURL: "/power/check-circuit-breaker/"
 ---
-## Diagnostics - Phone
+## Diagnostics - Phone 📞 📞
 
 1. Is the power switch in the "ON" position?
     a. SmartBrew machine must be turned on for proper operation and charging of the tablet battery 🔋.

@@ -4,7 +4,7 @@ date: Last Modified
 tags:
   - heating
 ---
-## Diagnostics - Phone
+## Diagnostics - Phone 📞
 
 1. Check the common reasons the SmartBrew machine has [no heat](/smartbrew/kb/common-no-hot-water/)
 

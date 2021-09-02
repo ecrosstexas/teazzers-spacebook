@@ -4,7 +4,7 @@ date: Last Modified
 tags:
   - heating
 ---
-## Diagnostics - Phone
+## Diagnostics - Phone 📞
 
 1. Is the SmartBrew machine [turned on](/smartbrew/kb/turn-on-machine/)?
 2. How long is the customer saying the machine has been heating? If machine has been heating less than 20 minutes, wait at least 20 minutes before proceeding.
