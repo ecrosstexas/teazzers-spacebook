@@ -9,7 +9,7 @@ tags:
 - Tank takes too long to heat. 
 - It may even show [heater error](/smartbrew/kb/heater-error/).
 
-## Action - PHone
+## Action - Phone
 
 ## Action - Field
 

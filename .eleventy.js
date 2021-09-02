@@ -20,39 +20,27 @@ module.exports = function(eleventyConfig) {
   });
 
   // Responsive image shortcode
-  eleventyConfig.addLiquidShortcode("image", async function(src, alt, sizes = "100vw") {
-    if(alt === undefined) {
-      // You bet we throw an error on missing alt (alt="" works okay)
-      throw new Error(`Missing \`alt\` on responsiveimage from: ${src}`);
-    }
-    src = './content/images/'+src
+  async function imageShortcode(src, alt, sizes) {
     let metadata = await Image(src, {
-      widths: [400, 600, 800, 1000, 1200, 1400, 1600, 1900],
-      formats: ['webp', 'jpeg', 'png'],
-      urlPath: "/images/",
-      outputDir: "./_site/images/"
+      widths: [300, 600],
+      formats: ["avif", "jpeg"]
     });
+  
+    let imageAttributes = {
+      alt,
+      sizes,
+      loading: "lazy",
+      decoding: "async",
+    };
+  
+    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+    return Image.generateHTML(metadata, imageAttributes);
+  }
+  
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addLiquidShortcode("image", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
 
-    let lowsrc = metadata.jpeg[0];
-
-    let picture = `<picture>
-      ${Object.values(metadata).map(imageFormat => {
-        return `  <source type="image/${imageFormat[0].format}" srcset="${imageFormat.map(entry => entry.srcset).join(", ")}" sizes="${sizes}">`;
-      }).join("\n")}
-        <img
-          data-src="${lowsrc.url}"
-          width="${lowsrc.width}"
-          height="${lowsrc.height}"
-          alt="${alt}">
-      </picture>`;
-
-      return `${picture}`;
-
-  });
-
-  eleventyConfig.addLiquidShortcode("icon", function(title,url) {
-    return '<img class="icon" src="'+url+'" alt="'+title+'" />';
-  });
 
   // Button shortcode -- experimental
   // eleventyConfig.addLiquidShortcode("button", function(title,url) {
@@ -181,7 +169,7 @@ module.exports = function(eleventyConfig) {
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("favicon.ico");
-  eleventyConfig.addPassthroughCopy("images/")
+  eleventyConfig.addPassthroughCopy("img/")
   eleventyConfig.addPassthroughCopy({'content/images/': "/images" });
   eleventyConfig.addPassthroughCopy({'content/pdf/': "/pdf" });
   eleventyConfig.addPassthroughCopy("admin");
@@ -246,7 +234,7 @@ module.exports = function(eleventyConfig) {
     // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
     // This is only used for URLs (it does not affect your file structure)
     pathPrefix: "/",
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
     dir: {

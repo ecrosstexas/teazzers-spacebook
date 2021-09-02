@@ -11,7 +11,11 @@ tags:
 - Water & steam spits out of sprayhead. 
 - You can hear water boiling inside of the tank.
 
-## Troubleshooting
+## Troubleshooting - Phone
+
+- Step 1 - Confirm overheating and not leaking or overfilling.
+
+## Troubleshooting - Field
 
 - Step 1 - Check the [maximum temperature](/smartbrew/kb/max-temperature-setting/) 🌡️.
 - Step 2 - Check the [thermistor](/smartbrew/kb/check-thermistor/).
