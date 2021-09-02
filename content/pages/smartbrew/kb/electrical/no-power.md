@@ -1,9 +1,6 @@
 ---
 title: Check Power
 permalink: .no-power/index.html
-description:
-date: 2020-09-15
-layout: "layouts/page.njk"
 tags:
 problemCode:
 resolutionCode:

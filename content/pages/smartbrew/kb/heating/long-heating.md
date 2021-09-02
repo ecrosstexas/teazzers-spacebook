@@ -9,9 +9,11 @@ tags:
 - Tank takes too long to heat. 
 - It may even show [heater error](/smartbrew/kb/heater-error/).
 
-## Troubleshooting
+## Action - PHone
 
-- Step 1 - Check the [firmware](/heating/check-firmware/).
+## Action - Field
+
+- Step 1 - Check the [firmware](/smartbrew/kb/check-firmware/).
 - Step 2 - Check the [thermistor](/smartbrew/kb/check-thermistor/).
 - Step 3 - Check the [hi-limit-switch](/smartbrew/kb/check-hi-limit/).
 - Step 4 - Check the [heater relay](/smartbrew/kb/check-heater-relay/).

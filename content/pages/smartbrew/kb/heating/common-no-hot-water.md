@@ -10,14 +10,16 @@ nextStepURL: "/heating/check-limit/"
 ---
 ## Possible Cause(s)
 
-- [Tripped circuit breaker](/electrical/check-circuit-breaker/).
-- [SmartBrew machine unplugged](/electrical/connect-machine/).
-- [Power switch in "OFF" position](/electrical/turn-on-machine/).
+- [SmartBrew machine unplugged](/smartbrew/kb/connect-machine/).
+- [Power switch in "OFF" position](/smartbrew/kb/turn-on-machine/).
+- [Tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
 
 ## What to Check - Phone
 
-- Plug machine in.
+- Is the machine plugged in?
 - Turn machine "ON"
+    - Tank should begin to heat and reach temperature within 20 minutes.
+- If machine doesn't begin to heat or show signs of operation, check for a [tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
 
 ## What to Check - Field
 
