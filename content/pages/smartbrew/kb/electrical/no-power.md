@@ -14,14 +14,14 @@ SmartBrew machine has no functionality and the tablet is "ON".
 
 ## Troubleshooting
 
-- Step 1 - [Plug in SmartBrew Machine](/power/connect-machine/)
+- Step 1 - [Plug in SmartBrew Machine](/smartbrew/kb/connect-machine/)
 
-- Step 2 - [Turn on SmartBrew Machine](/power/turn-on-machine/)
+- Step 2 - [Turn on SmartBrew Machine](/smartbrew/kb/turn-on-machine/)
 
-- Step 3 - [Check Circuit Breaker](/power/check-circuit-breaker/)
+- Step 3 - [Check Circuit Breaker](/smartbrew/kb/check-circuit-breaker/)
 
-- Step 4  - Dispatch - [Plug Shorted](/power/check-short/)
+- Step 4  - Dispatch - [Plug Shorted](/smartbrew/kb/check-short/)
 
-- Step 5  - Dispatch - [Check Transformer](/power/check-transformer/)
+- Step 5  - Dispatch - [Check Transformer](/smartbrew/kb/check-transformer/)
 
-- Step 6  - Dispatch - [Check Main Board](/power/check-main-board/)
+- Step 6  - Dispatch - [Check Main Board](/smartbrew/kb/check-main-board/)
