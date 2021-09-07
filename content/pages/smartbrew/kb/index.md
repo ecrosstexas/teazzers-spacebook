@@ -1,6 +1,7 @@
 ---
 title: SmartBrew Knowledge Base
 date: Last Modified 
+"permalink": "./smartbrew/{{ page.fileSlug }}/index.html"
 eleventyNavigation:
   parent: SmartBrew
   key: Knowledge Base 
