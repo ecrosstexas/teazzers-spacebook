@@ -14,7 +14,7 @@ tags:
   b. If the temperature is not inceasing, dispatch service.
 4. Is this the first brew or the third brew? 
   a. If first brew, was the machine just turned back on?  It may take 20 minutes or more to heat a cold tank. Note, the heater will turn off after 48 hours of inactivity.
-  b. If third brew, does the machine have dual level probes or a single probe? Machines LT0000xxxx and up have dual probes from the factory. Check the logs for upgrade history on older machines. Dispatch service to upgrade level probe as necessary.
+  b. If third brew, does the machine have dual level probes or a single probe? Machines LT00004223 and up have dual probes from the factory. Check the logs for upgrade history on older machines. Dispatch service to upgrade level probe as necessary.
 5. If still unresolved, dispatch service.
 
 
