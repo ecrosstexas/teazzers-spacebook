@@ -16,7 +16,7 @@ nextStepURL: "/heating/check-thermistor/"
 
 ![App Maintenance Screen - Firmware Version](/images/app-maintenance-screen-bluetooth-paired.jpg)
 
-## Action Needed - Field
+## Action Needed - Field 🛻
 
 ### Update Firmware
 - As of this writing, access the Maintenance Screen  and verify that at least "Board Version 757531_TSB4_2020042412" is in upper right hand part of the display. If not, install the latetest firmware.

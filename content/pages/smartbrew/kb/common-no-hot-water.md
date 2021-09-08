@@ -15,13 +15,13 @@ nextStepURL: "/heating/check-limit/"
     - Tank should begin to heat and reach temperature within 20 minutes.
 - If machine doesn't begin to heat or show any signs of operation, check for a [tripped circuit breaker](/smartbrew/kb/check-circuit-breaker/).
 
-## What to Check - Field
+## What to Check - Field 🛻
 
 - Short to ground.
 - Shorted tank element.
 - Burnt wires.
 
-## Action Needed - Field
+## Action - Field 🛻
 
 - Tripped circuit breaker: check for obvious signs of short to ground or burnt wires. Repair accordingly.
 

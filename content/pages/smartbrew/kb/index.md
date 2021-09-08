@@ -14,8 +14,26 @@ tags:
 ## Common complaints
 
 1. My [tea is weak](/smartbrew/kb/weak-tea/).
-2. My machine takes a [long time to heat](/smartbrew/kb/long-heating/).
-3. My machine is [boiling (overheating)](/smartbrew/kb/overheating/).
+2. My tea tastes bitter
+3. My tea isn't sweet (enough)
+4. My tea is too sweet
+5. My screen shows a sweetener message
+6. My urn isn't full
+7. My urn is overfilling
+8. My urn is leaking
+9. My machine takes a [long time to heat](/smartbrew/kb/long-heating/).
+10. My machine is [boiling (overheating)](/smartbrew/kb/overheating/).
+11. My machine is leaking
+12. My machine won't brew, no water comes out after I press the button
+13. My starts to brew and then stops
+14. My brew basket is clogged 
+15. My tea bag isn't getting wet and it's pretty much dry
+16. My screen is blank
+17. My screen is flashing
+18. My screen is stuck on a Verizon logo
+19. My screen shows the progamming menu
+20. My screen shows an Android app (homescreen, wallpaper, settings, etc.)
+21. Call For Service message is on the screen
 
 
 

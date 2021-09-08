@@ -13,7 +13,7 @@ nextStepURL: "/heating/"
 - Check harness connections at main control board.
 - Inspect the thermistor for water scale, pin holes, etc.
 
-## Action Needed - Field
+## Action - Field 🛻
 
 1. Verify the machine is running [firmware 757531_TSB4_2020042412 or newer](/smartbrew/kb/outdated-firmware/) and update the firmware if possible as several issues with the heating circuit were fixed with this firmware.
 2. [Open the SmartBrew top and trunk panels](/smartbrew/kb/open-smartbrew/).

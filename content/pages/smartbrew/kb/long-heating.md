@@ -18,7 +18,7 @@ tags:
 5. If still unresolved, dispatch service.
 
 
-## Action - Field
+## Action - Field 🛻
 
 1. Check the [firmware](/smartbrew/kb/outdated-firmware/).
 2. Check the [thermistor](/smartbrew/kb/check-thermistor/).

@@ -26,7 +26,7 @@ nextStepURL: "/power/check-circuit-breaker/"
 
 - Check wires for loose or burnt terminals.
 
-## Action Needed - Field
+## Action Needed - Field 🛻
 
 1) If the switch is in the "ON" position, check for power at the terminal block with Volt meter (110-120VAC).
 

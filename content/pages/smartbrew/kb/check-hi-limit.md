@@ -7,12 +7,12 @@ problemCode: "Check Tank Temperature"
 resolutionCode: 304
 nextStepURL: "/heating/"
 ---
-## What to Check - Field
+## What to Check - Field 🛻
 
 - Check wires loose connections or burnt wires or sealant.
 - Check reset button.
 
-## Action Needed - Field
+## Action - Field 🛻
 
 ### I. Prerequisites
 
