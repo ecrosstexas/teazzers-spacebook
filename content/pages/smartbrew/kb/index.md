@@ -46,7 +46,7 @@ tags:
 
 :::
 
-::: callout-green
+::: callout
 
 ### Screen
 5. My screen shows a sweetener message
