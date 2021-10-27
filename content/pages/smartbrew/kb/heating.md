@@ -31,7 +31,7 @@ The SmartBrew machine has a hot water tank which heats the brew water to around 
 ---
 
 
-## ⚠️ Caution
+##  Caution ⚠️
 
 ::: callout
 

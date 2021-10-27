@@ -28,7 +28,7 @@ If there is still no power readings from the previous steps, then check the CONT
 6. Repeat these steps for both the violet w/white striped wires and the 4” & 21” violet w/black striped wires.
 
 
-## ⚠️ Caution
+##  Caution ⚠️
 
 ::: callout
 

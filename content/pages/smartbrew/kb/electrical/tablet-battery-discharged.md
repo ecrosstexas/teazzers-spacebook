@@ -17,17 +17,17 @@ tags:
 
 ## Action Needed - Phone
 
-1) [Power switch is off](/power/turn-on-machine/).
+1) [Power switch is off](/smartbrew/kb/turn-on-machine/).
 
-2) [Unit is unplugged](/power/connect-machine/).
+2) [Unit is unplugged](//smartbrew/kb/connect-machine/).
 
-3) [Breaker is/was tripped](/power/check-circuit-breaker/).
+3) [Breaker is/was tripped](//smartbrew/kb/check-circuit-breaker/).
 
 4) Power to the store was lost.
 
 ## Action Needed - Field
 
-1) [Power block or USB cable](/power/tablet-no-usb-power/) is defective.
+1) [Power block or USB cable](//smartbrew/kb/tablet-no-usb-power/) is defective.
 
 2) Defective tablet. Replace tablet.
 

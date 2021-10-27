@@ -20,11 +20,14 @@ nextStepURL: "/heating/"
 3. Check wire harness connections at main control board for loose connections or burnt wires.
 4.  Remove the thermistor by gently pulling the top of the thermistor straight upwards through the plastic grommet until the thermistor is totally removed.
 5. Inspect the thermistor for water scale, pin holes, etc.
-6. Clean and/or replace the thermistor as necessary
-7. If hard water or scale appears to be a problem, recommend a water filtration system.
-8. If heating issues remain, [check the hi-limit switch](/smartbrew/kb/check-hi-limit/)
+6. Clean and/or replace the thermistor as necessary. [Resolved](/smartbrew/kb/resolutions#304) ☺️?
+7. If heating issues remain, [check the hi-limit switch](/smartbrew/kb/check-hi-limit/)
 
-## ⚠️ Caution
+### Preventative 👨‍⚕️
+
+If hard water or scale appears to be a problem, recommend a water filtration system.
+
+##  Caution ⚠️
 
 ::: callout
 

@@ -29,9 +29,13 @@ Check the heater element for a possible “Open-Short” or a “Short-to-Ground
 6. To check for a “Short-to-Ground”, place one test lead on either terminal of the heater element and the other on the tank lid (See Figure 16). If there are all zero’s across the display, the element has a “Short-to-Ground” and the [heater element should be replaced](/pdf/757524-heater-element-replacement.pdf).
 7. If there are no zero’s across the display, the heater element has an “Open-Short” and the [heater element should be replaced](/pdf/757524-heater-element-replacement.pdf).
 8. Once the heater element has been removed, inspect the element for water scale, pin holes, etc.
-9. If hard water or scale appears to be a problem, recommend a water filtration system.
+9. Replace element if necessary. ☺️ [Resolved](/smartbrew/kb/resolutions#307)?
 
-## ⚠️ Caution
+### Preventative 👨‍⚕️
+
+If hard water or scale appears to be a problem, recommend a water filtration system.
+
+##  Caution ⚠️
 
 ::: callout
 

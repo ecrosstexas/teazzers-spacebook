@@ -10,12 +10,13 @@ tags:
 1. Why do you think the tea is weak? Is this a new issue? *We are trying to determine if this is a subjective, personal issue or an actual issue with the machine.*
 2. Which recipe(s) is weak?
 2. If this this is a sweet recipe, is there a sweetener message on the screen? 
-  a. If out of sweetener, machine will stop brewing. Replace sweetener and rebrew.
+  a. If out of sweetener, machine will stop brewing. Replace sweetener bag-in-box and rebrew.
 3. Verify that the customer does have a new TEAZZERS tea filter pack in the brew basket.  If not,
   a. Rebrew with a new 2oz. TEAZZERS tea filter pack.
   b. Are they brewing with the correct tea filter pack per the recipe? *Are they brewing with green tea on a black tea recipe?*
 4. Verify that the tea filter pack is actually saturated after steeping the tea and not just damp.
-  a. If the filter pack is only damp there is likely an issue with tank refilling properly.
+  a. If the filter pack is only damp the [sprayhead may be clogged](/smartbrew/kb/clogged-sprayhead/).
+  b. Is the sprayhead isn't clogged, there is likely an issue with tank refilling properly.
 4. Verify that all of the tea has evacuated the brew basket. If not:
   a. Carefully remove brew basket.
   b. Empty the tea and filter pack from the brew basket.

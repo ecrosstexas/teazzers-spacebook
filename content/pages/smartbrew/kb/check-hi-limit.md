@@ -29,7 +29,7 @@ nextStepURL: "/heating/"
 - Check to see if the “RED or BROWN” reset button on top of the hi- limit switch has been tripped (UP position). 
 - If tripped, then attempt to reset it by firmly pushing the button down until a click sound is heard. 
 - Now attempt to reheat the tank and check for a boiling water condition. 
-- If the switch will not reset, then replace the defective hi-limit switch.
+- If the switch will not reset, then replace the defective hi-limit switch. [Resolved](/smartbrew/kb/resolutions#302) ☺️?
 
 ### IV. Check Voltages
 
@@ -47,8 +47,11 @@ If there is NO reading, then check the wire connections and goto Section “V”
 5. Check for voltage through the heater element. Touch the tips of the test leads to both the power and neutral terminals of the heater element (See Figure 5). The meter should read 120 Volts AC. If we do have 120VAC then [check heater relay](/smartbrew/kb/check-heater-relay/)
 6. If there is NO reading in Step 5, then there maybe a bad connection/wire between the hi-limit switch and the heater element. Check the connections by touching the test leads to the incoming side of the hi-limit switch (Note: we have already verified the switch is good) and the power terminal of the heater element. If no reading is found, then [check the continuity](/smartbrew/kb/check-continuity-heater-wiring/) of the connections at the hi-limit switch as well as the heater terminals and replace the wire/connections as necessary.
 
+### Preventative 👨‍⚕️
 
-## ⚠️ Caution
+If hard water or scale appears to be a problem, recommend a water filtration system.
+
+##  Caution ⚠️
 
 ::: callout
 

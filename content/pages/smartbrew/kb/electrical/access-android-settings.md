@@ -12,7 +12,7 @@ The Android operating system is hidden away as much as possible to prevent chang
 
 ## Action Needed - Field
 
-1) [Exit Pro Kiosk Mode](/power/exit-pro-kiosk-mode/) if you haven't already.
+1) [Exit Pro Kiosk Mode](/smartbrew/kb/exit-pro-kiosk-mode/) if you haven't already.
 
 2) Swipe Up on the bottom of the Warning Screen
 
