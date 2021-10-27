@@ -25,8 +25,8 @@ If there is still no power readings from the previous steps, then check the CONT
 3. Disconnect the violet w/black wire from the Common (COM) terminal of the heater relay and from the L1 side of the terminal block.
 4. Place one test lead in one end. Place the second lead on the other end of the wire terminal.
 5. The meter should read all zeros across the display to indicate a good wire with good connectors. If not, then replace the faulty wire(s).
-6. Repeat these steps for both the violet w/white striped wires and the 4” & 21” violet w/black striped wires.
-
+6. Repeat these steps for both the violet w/white striped wires and the 4” & 21” violet w/black striped wires. Replace faulty wire(s) as necessary.
+7. [Resolved](/smartbrew/kb/resolutions#309) ☺️?
 
 ##  Caution ⚠️
 

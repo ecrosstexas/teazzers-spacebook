@@ -25,4 +25,10 @@ Go into SmartBrew app's **Setup menu** and adjust the Maximum Temperature accord
 
 If adjusting the maximum temperature does not resolve overheating issues, proceed to checking the [thermistor](/smartbrew/kb/check-thermistor/).
 
-## Caution
+## Caution ⚠️
+
+::: callout
+
+Make sure you do not exceed the Maximum Temperature for to the given [altitude](/pdf/temp-altitude-scale.pdf).
+
+:::
