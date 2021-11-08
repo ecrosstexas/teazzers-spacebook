@@ -1,7 +1,7 @@
 ---
 title: Turn on SmartBrew Machine
 description:
-date: 2020-10-01
+date: Last Modified
 tags:
 problemCode: 100
 resolutionCode: 102
@@ -12,6 +12,7 @@ nextStepURL: "/power/check-circuit-breaker/"
 1. Is the power switch in the "ON" position?
     a. SmartBrew machine must be turned on for proper operation and charging of the tablet battery 🔋.
     b. When turned on, the fan will run in the top of the SmartBrew machine. It is possible to hear the fan and feel the airflow along the vents at the top of the machine.
+- [Resolved](/smartbrew/kb/resolutions#102) ☺️?
 
 ::: callout 
 
@@ -34,5 +35,10 @@ nextStepURL: "/power/check-circuit-breaker/"
 
 3) Check and repair burnt wires accordingly.
 
-## Caution
+::: callout
+
+Before servicing the unit; be sure to disconnect the power supply completely (unplug or turn off circuit breaker). When it is advised to remove a wire to check for Voltage throughout these procedures, turn the power OFF to unit first; get yourself setup; then turn power back on to check for Voltage.
+
+NEVER DISCONNECT LIVE WIRES FROM ANY DEVICE ON THE MACHINE. ALWAYS EXERCISE SAFETY FIRST!
+:::
 

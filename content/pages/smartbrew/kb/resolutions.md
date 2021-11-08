@@ -6,15 +6,15 @@ tags:
 ---
 ## Power & Electrical
 
-<a name="101r"></a>
+<a name="101"></a>
 ### 101
 - Machine Unplugged	
 
-<a name="102r"></a>
+<a name="102"></a>
 ### 102
-- Turn on Machine
+- The SmartBrew machine was turned off. Turning it back on resolved this issue. Please report resolution 102.
 
-<a name="103r"></a>
+<a name="103"></a>
 ### 103
 - Circuit Breaker	
 
@@ -74,19 +74,19 @@ tags:
 
 <a name="302"></a>
 ### 302
-- High Limit Switch
+- Replacing the high limit switch resolved the heating issue. Please report resolution 302.
 
 <a name="303"></a>
 ### 303
-- Heater Relay
+- Replacing the heater relay resolved the heating issue. Please report resolution 303.
 
 <a name="304"></a>
 ### 304
-- Thermistor
+- Replacing the thermistor resolved the heating issue. Please report resolution 304.
 
 <a name="305"></a>
 ### 305
-- Firmware	
+- Upgrading to the latest version of the SmartBrew Firmware resolve the heating issue. Please report resolution 305.
 
 <a name="306"></a>
 ### 306
@@ -94,7 +94,7 @@ tags:
 
 <a name="307"></a>
 ### 307
--  Heater Element
+- Replacing the heating element resolved the heating issue. Please report resolution 307.
 
 <a name="308"></a>
 ### 308
@@ -102,7 +102,12 @@ tags:
 
 <a name="309"></a>
 ### 309
-- Heater Circuit Wiring
+- Reparing/replacing the heater circuit wiring resolved the heating issue. Please report resolution 309.
+
+<a name="310"></a>
+### 310
+- Resetting the high limit switch resolved the heating issue. Please report resolution 310.
+
 
 ## Leaking
 401	Check Water Level Probe	Leaking	

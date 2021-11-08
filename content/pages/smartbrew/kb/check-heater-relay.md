@@ -27,7 +27,7 @@ If there is no voltage reading at the hi-limit switch then test the connections 
 6. Then disconnect the red and blue 12VDC wires from the heater relay (See Figure 6). 
 7. Set the meter to 200DCV as in Figure 12.
 8. Connect the test leads to these 12VDC relay connectors (See Figure 11).
-9. If there is a 12-17VDC reading on the red and blue wires and there is 120VAC reading on the violet w/black wire from the terminal block to the Common (COM) terminal on the heater relay, but no voltage from the Normally Open (NO) terminal to the hi-limit thermostat switch, then replace the defective heater relay. [Resolved](/smartbrew/kb/resolutions#303) ☺️?
+9. If there is a 12-17VDC reading on the red and blue wires and there is 120VAC reading on the violet w/black wire from the terminal block to the Common (COM) terminal on the heater relay, but no voltage from the Normally Open (NO) terminal to the hi-limit thermostat switch, then replace the defective heater relay. [Resolved heating issues?](/smartbrew/kb/resolutions#303) ☺️
 10. If not, then [check for continuity](/smartbrew/kb/check-continuity-heater-wiring/).
 11. If the continuity of the wires is ok, then the main system board maybe defective.
 
