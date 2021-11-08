@@ -24,5 +24,4 @@ nextStepURL: "/brewing/check-sweetener-pump/"
 - Remove, clean and reconnect making sure to listen for loud snap.
 - [How to use a QCD](https://www.youtube.com/watch?v=Dnz50YzI59c) YouTube video
 - Replace QCD if necessary.
-
-## Caution
+- [Resolved brewing issues?](/smartbrew/kb/resolutions#210) ☺️

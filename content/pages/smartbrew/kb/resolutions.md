@@ -36,29 +36,38 @@ tags:
 
 <a name="201"></a>
 ### 201
-- Water Valve
+- Replacing the water valve resolved the brewing issue. Please report resolution 201.
 
 <a name="202"></a>
 ### 202
-- Water Level Probe
+- Replacing the water level probe resolved the brewing issue. Please report resolution 202.
 
 <a name="203"></a>
 ### 203
--  Main Control Board
+- Replacing the main control board resolved the brewing issue. Please report resolution 203.
 
 <a name="204"></a>
 ### 204
--  Transformer
+- Replacing the transformer resolved the brewing issue. Please report resolution 204.
 	
 205	Check Tank Fill Valve
 206	Check Flow Control Valve
 207	Check Water Filter
 208	Check Water Calibration
 209	Check Sweetener Calibration
-210	Check QCD
+
+<a name="210"></a>
+### 210
+- Repairing/Replacing the Sweetener Bag-In-Box QCD Connector resolved the brewing issue. Please report resolution 210.
+
+
 211	Check Tablet Not
 212	Check Tea Urns
-213	Check BIB
+
+<a name="213"></a>
+### 213
+- Replacing the sweetener BIB resolved the brewing issue. Please report resolution 213.
+	
 214	Check BRIX
 215	Check Cold Water Dilution
 216	Check Sprayhead
@@ -66,6 +75,14 @@ tags:
 218	Check Water Lines
 219	Check Sweetener Tube
 220	Check Sweetener Pump
+
+<a name="220"></a>
+### 220
+- Replacing the sweetener pump resolved the brewing issue. Please report resolution 220.
+
+<a name="221"></a>
+### 221
+- Cleaning the sweetener pump resolved the sweetener issue. Please report resolution 221.
 
 ## Heating
 <a name="301"></a>

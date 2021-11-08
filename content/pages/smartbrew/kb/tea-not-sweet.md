@@ -9,7 +9,7 @@ tags:
 2. Which recipe(s) is not sweet (enough)?
 3. Check the recipe in TeaWorld's Brew Data to verify the recipe(s) programming.
 4. Is there a sweetener message on the screen? 
-  a. If out of sweetener, machine will stop brewing. Replace sweetener bag-in-box and rebrew.
+  a. If out of sweetener, machine will stop brewing. Replace sweetener bag-in-box and rebrew. [Resolved brewing issues?](/smartbrew/kb/resolutions#213) ☺️
   b. If not out of sweetener, [check the QCD connection](/smartbrew/kb/check-qcd/).
 5. Clean the sweetener system.
 

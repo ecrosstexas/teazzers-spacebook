@@ -53,9 +53,9 @@ tags:
 16. My [screen is blank](/smartbrew/kb/screen-blank/)
 17. My [screen is flashing](/smartbrew/kb/screen-flashing/)
 18. My screen is [stuck on a Verizon logo](/smartbrew/kb/screen-verizon-logo/)
-19. My screen shows the progamming menu
-20. My screen shows an Android app (homescreen, wallpaper, settings, etc.)
-21. Call For Service message is on the screen
+19. My screen shows the [progamming menu](/smartbrew/kb/programming-menu/)
+20. My [screen shows an Android app](/smartbrew/kb/android-app/) (homescreen, wallpaper, settings, etc.)
+21. [Call For Service](/smartbrew/kb/call-for-service/) message is on the screen
 
 :::
 
