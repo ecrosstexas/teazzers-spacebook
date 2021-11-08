@@ -6,7 +6,11 @@ tags:
 ---
 ## Diagnostics - Phone 📞
 
+1. Check obvious signs of sediment build-up.
+
 ## Action - Field 🛻
+
+1. Clean or replace sprayhead and tube.
 
 ### Preventative 👨‍⚕️
 

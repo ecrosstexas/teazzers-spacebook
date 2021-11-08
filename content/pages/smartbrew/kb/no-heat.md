@@ -8,7 +8,7 @@ tags:
 
 1. Check the common reasons the SmartBrew machine has [no heat](/smartbrew/kb/common-no-hot-water/)
 
-## Action - Field 🛻
+## <a name="action-needed"></a>Action Needed - Field 🛻
 
 1. Check the common reasons the SmartBrew machine has [no heat](/smartbrew/kb/common-no-hot-water/)
 2. Check the [thermistor](/smartbrew/kb/check-thermistor/).

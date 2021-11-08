@@ -12,6 +12,6 @@ tags:
 
 ## Action - Field 🛻
 1. Check that the [tablet is on](/smartbrew/kb/turn-on-tablet/)
-2. Check to see if the tablet's[battery is discharged](/smartbrew/kb/battery-discharged/)?
+2. Check to see if the tablet's [battery is discharged](/smartbrew/kb/battery-discharged/)?
 3. Check the [USB Power](/smartbrew/kb/tablet-no-usb-power/)
-4. Check the [Convenience Outlet](/smartbrew/kb/tablet-no-120v-power/)nv
+4. Check the [Convenience Outlet](/smartbrew/kb/tablet-no-120v-power/)

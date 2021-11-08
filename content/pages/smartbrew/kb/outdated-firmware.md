@@ -13,7 +13,6 @@ nextStepURL: "/heating/check-thermistor/"
 - Tablet has a **Software** version number prior to 757542-2.
 - Tablet has a **Board** (firmware) version number prior to 757531_TSB4_2020042412.
 
-
 ![App Maintenance Screen - Firmware Version](/images/app-maintenance-screen-bluetooth-paired.jpg)
 
 ## Action Needed - Field 🛻

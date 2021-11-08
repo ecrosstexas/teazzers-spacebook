@@ -1,0 +1,8 @@
+{
+    "tags": [
+        "smartbrew"
+    ],
+    "layout": "layouts/dispatch-page.njk",
+    "permalink": "./dispatch/{{ page.fileSlug }}/index.html"
+  }
+  

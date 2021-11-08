@@ -12,7 +12,7 @@ nextStepURL: "/power/check-circuit-breaker/"
 1. Is the power switch in the "ON" position?
     a. SmartBrew machine must be turned on for proper operation and charging of the tablet battery 🔋.
     b. When turned on, the fan will run in the top of the SmartBrew machine. It is possible to hear the fan and feel the airflow along the vents at the top of the machine.
-- [Resolved](/smartbrew/kb/resolutions#102) ☺️?
+- [Resolved](/resolution/102/) ☺️?
 
 ::: callout 
 
@@ -21,13 +21,15 @@ nextStepURL: "/power/check-circuit-breaker/"
 
 ![Picture of power switch](/images/power-on.jpg)
 
-2. If the machine is still not "ON", does the outlet have power?
+2. If the machine is still not "ON", does the outlet have power? If the outlet has power, [dispatch service](/dispatch/101/). 🛻
+
+3. If the outlet does not have power, check the circuit breaker.
 
 ## What to Check - Field
 
 - Check wires for loose or burnt terminals.
 
-## Action Needed - Field 🛻
+## <a name="action-needed"></a>Action Needed - Field 🛻
 
 1) If the switch is in the "ON" position, check for power at the terminal block with Volt meter (110-120VAC).
 

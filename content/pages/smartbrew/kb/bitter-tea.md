@@ -29,10 +29,4 @@ tags:
 6. Verify that a full 2 gallons of tea was brewed into the urn.
 7. If problem persists dispatch service.
 
-
-1. Check the tea urns.
-2. Check that the sprayhead isn't clogged.
-3. Check that the water lines supplying water to the machine.
-4. Check the programming.
-
 ## Action - Field 🛻

@@ -10,16 +10,15 @@ problemCode:
 resolutionCode: 210
 nextStepURL: "/brewing/check-sweetener-pump/"
 ---
-## Possible Cause
+![Open QCD showing the top](/images/part-qcd-open-top.jpg)
 
-- QCD connector
 
-## What to Check - Phone
+## Diagnostics - Phone 📞
 
-- Not properly secured
-- Or is clogged with product or crystalline accumulation.
+- Is the QCD properly secured closed on the BIB?
+- Or is clogged with product or crystalline accumulation?
 
-## Action Needed - Phone
+## Action Needed - Phone 📞
 
 - Remove, clean and reconnect making sure to listen for loud snap.
 - [How to use a QCD](https://www.youtube.com/watch?v=Dnz50YzI59c) YouTube video

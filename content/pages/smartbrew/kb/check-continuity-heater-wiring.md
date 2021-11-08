@@ -26,7 +26,7 @@ If there is still no power readings from the previous steps, then check the CONT
 4. Place one test lead in one end. Place the second lead on the other end of the wire terminal.
 5. The meter should read all zeros across the display to indicate a good wire with good connectors. If not, then replace the faulty wire(s).
 6. Repeat these steps for both the violet w/white striped wires and the 4” & 21” violet w/black striped wires. Replace faulty wire(s) as necessary.
-7. [Resolved heating issues?](/smartbrew/kb/resolutions#309) ☺️
+7. [Resolved heating issues?](/resolution/309/) ☺️
 
 ##  Caution ⚠️
 
