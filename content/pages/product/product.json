@@ -2,6 +2,6 @@
   "tags": [
     "product"
   ],
-  "layout": "layouts/kb.njk"
+  "layout": "layouts/page.njk"
 
 }
