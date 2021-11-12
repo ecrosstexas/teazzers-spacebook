@@ -1,0 +1,8 @@
+{
+    "tags": [
+        "smartbrew"
+    ],
+    "layout": "layouts/page.njk",
+    "permalink": "./smartbrew/{{ page.fileSlug }}/index.html"
+  }
+  

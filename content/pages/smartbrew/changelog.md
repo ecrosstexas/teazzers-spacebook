@@ -5,7 +5,7 @@ permalink: /smartbrew/changelog/
 eleventyNavigation:
   parent: SmartBrew
   key: Changelog
-  order: 103
+  order: 999
   title: Changelog
 tags:
   - installation
