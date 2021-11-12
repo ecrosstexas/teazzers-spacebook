@@ -19,9 +19,9 @@ tags:
 - Verify that the customer does have a new TEAZZERS tea filter pack in the brew basket.  If not,
   a. Rebrew with a new 2oz. TEAZZERS tea filter pack.
   b. Are they brewing with the correct tea filter pack per the recipe? 
-  ::: callout 
-  📝 *Tip: Different teas have different tastes. Are they brewing with green tea on a black tea recipe?*
-  ::: 
+::: callout 
+📝 *Tip: Different teas have different tastes. Are they brewing with green tea on a black tea recipe?*
+::: 
 ### Step 4
 - Verify that the tea filter pack is actually saturated after steeping the tea and not just [damp](/smartbrew/dry-tea-bag/).
   a. If the filter pack is only damp the [sprayhead may be clogged](/smartbrew/clogged-sprayhead/).
@@ -39,7 +39,7 @@ tags:
 ### Step 7 
 - Is the water filtered? Is so, how?
 ::: callout 
-📝 *Tip: On rare occasisons, the water source can be so filtered that there aren't enough minerals to pick up the tea flavor.*
+📝 *Tip: On rare occasisons, the water source can be so filtered that there aren't enough minerals to pick up the tea flavor. If they can brew coffee successully with this same water source, this isn't an issue.*
 ::: 
 ### Step 8
 - If problem persists [dispatch service](/dispatch/). 🛻 
