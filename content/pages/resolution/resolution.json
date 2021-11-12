@@ -1,8 +1,0 @@
-{
-    "tags": [
-        "smartbrew"
-    ],
-    "layout": "layouts/resolution-page.njk",
-    "permalink": "./resolution/{{ page.fileSlug }}/index.html"
-  }
-  

@@ -1,0 +1,15 @@
+---
+pagination:
+    data: dispatchs
+    size: 1
+    alias: dispatch
+permalink: "dispatch/{{ dispatch.id | slug }}/"
+tags:
+    - {{ dispatch.tag }}
+---
+<h1>🛻 {{ dispatch.title }}</h1>
+<p>{{ dispatch.description }}</p>
+
+<p><a href="{{ dispatch.action }}">Action Required</a></p>
+
+<p>📃 Be sure to complete a <a href="/field-service-report/">Field Service Report</a>.</p>

@@ -1,5 +1,5 @@
 ---
-title: Max Temperature Setting 🌡️
+title: 🌡️ Max Temperature Setting
 date: Last Modified 
 tags:
   - 
@@ -17,7 +17,7 @@ nextStepURL: "/heating/"
 
 The SmartBrew app has a setting that controls the maximum temperature the hot water tank should reach regardless of recipe. From the factory this is set at 202 degrees Fahrenheit. At altitude, this temperature needs to be adjusted downward.
 
-## Action - Field 🛻
+## 🛻 Action - Field
 
 ![App Setup Screen](/images/app-setup.png)
 
@@ -25,10 +25,8 @@ Go into SmartBrew app's **Setup menu** and adjust the Maximum Temperature accord
 
 If adjusting the maximum temperature does not resolve overheating issues, proceed to checking the [thermistor](/smartbrew/check-thermistor/).
 
-## Caution ⚠️
 
 ::: callout
-
+## ⚠️ Caution 
 Make sure you do not exceed the Maximum Temperature for to the given [altitude](/pdf/temp-altitude-scale.pdf).
-
 :::

@@ -1,0 +1,13 @@
+---
+pagination:
+    data: resolutions
+    size: 1
+    alias: resolution
+permalink: "resolution/{{ resolution.id | slug }}/"
+tags:
+    - {{ resolution.tag }}
+---
+<h1>{{ resolution.title }}</h1>
+<p>{{ resolution.description }}</p> 
+
+<p>📃 Please report resolution code {{ resolution.id }} on the <a href="/field-service-report/">Field Service Report</a>.</p>

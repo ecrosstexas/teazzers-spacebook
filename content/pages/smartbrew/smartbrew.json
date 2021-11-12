@@ -3,6 +3,7 @@
         "smartbrew"
     ],
     "layout": "layouts/page.njk",
-    "permalink": "./smartbrew/{{ page.fileSlug }}/index.html"
+    "permalink": "./smartbrew/{{ page.fileSlug }}/index.html",
+    "date": "Last Modified"
   }
   

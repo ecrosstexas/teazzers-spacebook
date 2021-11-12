@@ -1,7 +1,6 @@
 ---
 title: Field Service Report
-date: Last Modified 
-permalink: /fsr/
+date: Last Modified
 eleventyNavigation:
   parent: Home
   key: Field Service Report 

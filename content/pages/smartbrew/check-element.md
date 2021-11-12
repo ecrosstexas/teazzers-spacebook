@@ -1,13 +1,9 @@
 ---
 title: Check Heater Element for Short
-date: Last Modified 
 tags:
-  - 
-problemCode: 
-resolutionCode: 
-nextStepURL: "/heating/"
+  - heating
 ---
-## Action - Field 🛻
+## 🛻 Action - Field
 
 ### I. Prerequisites
 
