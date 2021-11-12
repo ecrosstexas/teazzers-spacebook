@@ -1,13 +1,13 @@
 ---
-title: SmartBrew Electrical Specs
+title: SmartBrew Electrical Requirements
 description: Man PN – 757558 Rev 071819
 permalink: /smartbrew/electrical-specs/
 date: Last Modified
 eleventyNavigation:
   parent: SmartBrew
-  key: Electrical Specs
+  key: Electrical Requirements
   order: 102
-  title: Electrical Specs
+  title: Electrical Requirements
 tags:
   - installation
   - manual
